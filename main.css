@@ -2,9 +2,9 @@
     font-family: 'alegreya';
     src: url('./fonts/alegreyasanssc-black-webfont.woff2') format('woff2'),
        url('./fonts/alegreyasanssc-black-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
+        font-weight: normal;
+        font-style: normal;
+    }
   
   /*баги: строка 307; */
 
