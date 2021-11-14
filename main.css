@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'alegreya';
-  src: url('./fonts/alegreyasanssc-black-webfont.woff2') format('woff2'),
+    font-family: 'alegreya';
+    src: url('./fonts/alegreyasanssc-black-webfont.woff2') format('woff2'),
        url('./fonts/alegreyasanssc-black-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
+    font-weight: normal;
+    font-style: normal;
+  }
   
   /*баги: строка 307; */
 
@@ -630,7 +630,7 @@
 
   .extras__col-socials {
     height: 100%;
-    background: url('/images/web-ready/bg/pattern.png') center center / 500px;
+    background: url('./images/web-ready/bg/pattern.png') center center / 500px;
     margin-bottom: 95px;
     display: flex;
     align-items: center;
