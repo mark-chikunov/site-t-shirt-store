@@ -481,7 +481,7 @@
     flex: 1;
     overflow: hidden;
     margin-right: 30px;
-    background: url('/images/web-ready/bg/pattern.png') center center / 500px;
+    background: url('./images/web-ready/bg/pattern.png') center center / 500px;
     position: relative;
   }
 
